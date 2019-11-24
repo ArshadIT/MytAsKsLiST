@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_add_note_title_edit_text" type="id" />
+    <item name="activity_add_note_priority_edit_text" type="id" />
+    <item name="activity_add_note_desc_edit_text" type="id" />
+    <item name="activity_add_note_priority_number_picker" type="id" />
+    <item name="notes_single_item_priority_tv" type="id" />
+    <item name="notes_single_item_desc_tv" type="id" />
+    <item name="notes_single_item_title_tv" type="id" />
+</resources>
